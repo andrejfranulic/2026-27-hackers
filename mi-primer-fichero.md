@@ -6,7 +6,7 @@
 
 **`Tu lema o frase corta aquí`**
 
-[Avatar](https://a.storyblok.com/f/178900/2500x1406/20c0029781/black-clover-new.png)
+[Pulsa aquí para ganar iphone XXV](https://a.storyblok.com/f/178900/2500x1406/20c0029781/black-clover-new.png)
 
 </div>
 
