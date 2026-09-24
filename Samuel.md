@@ -9,10 +9,11 @@ Hola, soy Samuel, apasionado/a por [ciberseguridad / hacking ético / redes / pr
 
 Actualmente estoy enfocado/a en:
 
-🔐 **informatica**
+🔐 ***informatica***
 
-🕵️ [Área de interés 2]
-
+🕵️ -elemento 
+-elemento
+  -sub
 💻 [Área de interés 3]
 
 🧪 [Área de interés 4]
