@@ -13,7 +13,7 @@ Actualmente estoy enfocado/a en:
 
 🕵️ -elemento 
 -elemento
-  -sub
+  -subelemento
 💻 [Área de interés 3]
 
 🧪 [Área de interés 4]
