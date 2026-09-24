@@ -11,14 +11,11 @@ Actualmente estoy enfocado/a en:
 
 🔐 ***informatica***
 
-🕵️ -elemento 
--elemento
-  -subelemento
 💻 [Área de interés 3]
 
 🧪 [Área de interés 4]
 
-Mi objetivo es [describe brevemente tu objetivo].
+Mi objetivo es aprender un poco de informatica.
 
 🧠 Áreas de especialización
 Área	Nivel	Descripción
