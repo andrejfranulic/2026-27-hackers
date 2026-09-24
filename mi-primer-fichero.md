@@ -1,6 +1,6 @@
 <div align="center">
 
-![Banner](https://upload.wikimedia.org/wikipedia/commons/5/53/Owoce_Jab%C5%82ko.jpg)
+![Banner](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTHh1V_JCdxTPjgB6n3hot-P7RYqF4wV2M8yVxilOTGRA&s=10)
 
 # 👾 TU_ALIAS
 
