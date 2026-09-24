@@ -1,6 +1,6 @@
 <div align="center">
 
-![Banner](https://via.placeholder.com/900x200/0d1117/00ff41?text=TU+ALIAS+//+HACKER+PROFILE)
+![Banner](https://upload.wikimedia.org/wikipedia/commons/5/53/Owoce_Jab%C5%82ko.jpg)
 
 # 👾 TU_ALIAS
 
