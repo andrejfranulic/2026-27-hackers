@@ -12,7 +12,10 @@
 
 ---
 
+# 🧑‍💻 Sobre mí
 ## 🧑‍💻 Sobre mí
+### 🧑‍💻 Sobre mí
+#### 🧑‍💻 Sobre mí
 
 - **Alias:** 
 - **Nombre real (opcional):** 
