@@ -1,12 +1,12 @@
 <div align="center">
 
-![Banner](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTHh1V_JCdxTPjgB6n3hot-P7RYqF4wV2M8yVxilOTGRA&s=10)
+![Banner](https://a.storyblok.com/f/178900/2500x1406/20c0029781/black-clover-new.png)
 
 # 👾 TU_ALIAS
 
 **`Tu lema o frase corta aquí`**
 
-![Avatar](https://via.placeholder.com/180x180/0d1117/00ff41?text=AVATAR)
+[Avatar](https://a.storyblok.com/f/178900/2500x1406/20c0029781/black-clover-new.png)
 
 </div>
 
