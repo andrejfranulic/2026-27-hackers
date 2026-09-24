@@ -11,31 +11,23 @@
 ### 📌 Identificación
 
 ```yaml
-usuario:       TU_USUARIO
+usuario:       Delfyolao
 rol:           Estudiante / Desarrollador en formación
-institucion:   TU_INSTITUCION
-estado:        > compilando conocimiento...
+institucion:   Hackers - AVENTURiNNA iDi
+estado:        Aprendiendo
 ```
 
 ### 🧠 Stack
 
 ```yaml
-lenguajes:     Python · JavaScript · Bash
-sistemas:      Linux
-```
-
-### 🎯 Intereses
-
-```yaml
-- Seguridad informática
-- Desarrollo web
-- Redes
+lenguajes:     Python
+sistemas:      Visual Studio Code
 ```
 
 ### 💬 Frase
 
 ```yaml
-"There is no patch for human stupidity, but there's always a commit for progress."
+"Me gustan los videojuegos."
 ```
 
 ---
