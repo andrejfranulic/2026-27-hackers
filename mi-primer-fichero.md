@@ -17,12 +17,12 @@
 ### 🧑‍💻 Sobre mí
 #### 🧑‍💻 Sobre mí
 
-- **Alias:** 
-- **Nombre real (opcional):** 
-- **Ubicación:** 
-- **Zona horaria:** 
-- **Activo desde:** 
-- **Contacto:** 
+Lista :
+
+- Item 1
+- Item 2
+- Item 3
+  - Sub Item A
 
 > Escribe aquí un párrafo breve sobre quién eres, qué te mueve y cómo empezaste en el mundo de la seguridad informática.
 
