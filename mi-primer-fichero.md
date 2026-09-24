@@ -1,3 +1,15 @@
+Lenguaje,Áreas principales,Por qué destaca
+Python,"IA, Data Science, Backend, Automatización","Sintaxis muy legible, biblioteca masiva y liderazgo indiscutible en inteligencia artificial y ciencia de datos."
+JavaScript,Desarrollo Web (Frontend y Backend),El estándar imprescindible de la web. Corre en cualquier navegador y en servidor con Node.js.
+TypeScript,Web y aplicaciones a gran escala,"Superconjunto de JS que añade tipado estático, enormemente popular en proyectos empresariales."
+Java,"Apps empresariales, Android, Backend","Robusto, seguro y con enorme presencia en el sector corporativo y bancario."
+C#,"Videojuegos (Unity), Software Microsoft","Lenguaje versátil del ecosistema .NET, clave en el desarrollo de videojuegos."
+C / C++,"Sistemas operativos, Motores de juego, IoT",Control directo de memoria y máximo rendimiento para software crítico.
+Go (Golang),"Cloud Computing, Microservicios, DevOps","Creado por Google; destaca por su sencillez, velocidad y excelente manejo de concurrencia."
+Rust,"Programación de sistemas, Blockchain",Ofrece el rendimiento de C++ pero garantizando seguridad de memoria sin recolector de basura.
+SQL,Bases de datos,El lenguaje estándar universal para consultar y manipular bases de datos relacionales.
+Kotlin / Swift,Desarrollo Móvil (Android e iOS),Kotlin es el estándar preferido para Android y Swift es el lenguaje nativo para el ecosistema Apple.
+
 <div align="center">
 
 ```python
