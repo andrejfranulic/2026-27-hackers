@@ -5,11 +5,11 @@
 
 👤 Sobre mí
 
-Hola, soy [TU NOMBRE / ALIAS], apasionado/a por [ciberseguridad / hacking ético / redes / programación / etc.].
+Hola, soy Samuel, apasionado/a por [ciberseguridad / hacking ético / redes / programación / etc.].
 
 Actualmente estoy enfocado/a en:
 
-🔐 [Área de interés 1]
+🔐 **informatica**
 
 🕵️ [Área de interés 2]
 
