@@ -9,7 +9,7 @@ Mis aficiones son:
 >  -Esgrima Histórica.
 >  -Natación.
 >  -Enduro (moto de campo).
->  -Rock, Metal techno.
+>  -Rock, Metal, techno.
 >  -Series.
 >  -Leer.
 >  -Programar.
