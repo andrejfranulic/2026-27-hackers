@@ -1,4 +1,4 @@
-#***BUENOS DÍAS***
+***BUENOS DÍAS***
 ![Adeptus Custode Vexilus Praetor](/Imagenes/Adeptus_Custode_Vexilus_Praetor.jpg)
 
 **Soy Héctor Ramírez Penadés.**
